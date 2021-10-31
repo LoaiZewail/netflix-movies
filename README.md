@@ -12,7 +12,7 @@ Http : A composable, Future-based library for making HTTP requests.
 * https://pub.dev/packages/http
 
 Get : GetX is an extra-light and powerful solution for Flutter and it combines high-performance state management.
-* https://pub.dev/packages/provider
+* https://pub.dev/packages/get
 
 Intl : This package provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
 * https://pub.dev/packages/intl
