@@ -1,4 +1,4 @@
-# News App
+# Netflix Movies
 
 Simple Netflix UI clone application with API for fetching realtime movies data from the internet.
 
